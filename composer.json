@@ -1,16 +1,16 @@
 {
-    "name": "bangnokia/cdn-image",
+    "name": "jakobid/cdn-image",
     "description": "Using cdn for images on the website",
     "keywords": [
         "laravel",
         "cdn-image"
     ],
-    "homepage": "https://github.com/bangnokia/cdn-image",
+    "homepage": "https://github.com/jakobid/cdn-image",
     "license": "MIT",
     "authors": [
         {
-            "name": "bangnokia",
-            "email": "bangnokia@gmail.com",
+            "name": "jakobid",
+            "email": "jakobid@gmail.com",
             "role": "Developer"
         }
     ],
